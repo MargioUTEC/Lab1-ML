@@ -13,3 +13,10 @@ Experimenting with various regression models, we try to arrive at the most accur
 • [Non-linear Regression](https://github.com/pranavtumkur/Predicting-CO2-emission-using-ML-Regression-models/blob/master/Non%20Linear%20Regression%20Model.ipynb) - We move to a different dataset, since CO2 emissions are mostly linearly dependent on all its independent parameters. We explore the different kinds of non-linear curves viz. exponential, sigmoidal, logarithmic, parabolic etc. and try to find out the best fitting curve to determine the CO2 emissions.
 
 Analysis is done using Python Scikit-learn library on Jupyter notebooks. Accuracy of each model is verified using Residual MSE, Mean abosolute error, R-squared value and Explained-variance.
+
+## Integrantes:
+
+- Alvarado Chávez, Margiory
+- Chipayo Flores, Alejandro Sebastian
+- Cueva Meza, Alexandra Patricia De Los Milagros
+- Rojas Leon, Brigitte Dayane
